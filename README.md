@@ -1,3 +1,3 @@
 # first-repo-sj
-My first git repoitory
+My first git repoitory.
 Author - Shreyans Jain
